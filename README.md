@@ -6,4 +6,7 @@ Project hosted on SourceForge at https://sourceforge.net/projects/bat-to-exe/
 
 Author's website at https://softwarebydefault.com/open-source-projects/battoexe/
 
-<img src="battoexe_screenshot.png" src="BatToExe Screenshot">
+<figure><img src="battoexe_screenshot.png" src="BatToExe Screenshot">
+  <figcaption>BatToExe Screenshot</figcaption>
+  </figure>
+  
